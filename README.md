@@ -1,7 +1,7 @@
 # DYU 大葉大學雲端運算服務課程
 2022/6/7,14 Cloud Computing Course
 
-# Learner Lab Code：(待確認)
+# Learner Lab Code：21001
 
 # 06/07 課程教材與課前調查表單
 
