@@ -1,4 +1,4 @@
-#   Quick Lab#1 S3存儲服務(Excel)
+#   Quick Lab#2 S3存儲服務(Excel)
 
 # Bank_excel資料欄位
 
