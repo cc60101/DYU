@@ -61,11 +61,11 @@
 
 6.等待紅燈變綠燈(第一次使用等待時間較長)
 
-![image](https://user-images.githubusercontent.com/103306835/165218555-b5eed932-6923-4172-ae2d-3e97aa76877f.png)
+![image](https://user-images.githubusercontent.com/103306835/172279249-afa1fd24-8bc2-424c-ac13-5d83f80ae0a1.png)
 
 7.點選[AWS]
 
-![image](https://user-images.githubusercontent.com/103306835/165218692-97b5f5d3-2ff3-480a-a2df-2bff9ff0c703.png)
+![image](https://user-images.githubusercontent.com/103306835/172279228-6cb28a93-0602-440e-97de-b27d603ca4ca.png)
 
 8.進入AWS Management Console
 
