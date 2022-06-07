@@ -4,6 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/103306835/165256542-47f73551-4b3c-43f8-a6ef-1abaff2b54f7.png)
 
+連結：https://github.com/EISCFCU/DYU/blob/main/Bank_excel.csv
 
 1.搜尋S3
 
