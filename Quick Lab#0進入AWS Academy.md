@@ -53,21 +53,23 @@
 
 ![image](https://user-images.githubusercontent.com/103306835/172278883-abccc115-3028-48bc-acc5-22dde0393492.png)
 
+5.點選[Student Access]
+![image](https://user-images.githubusercontent.com/103306835/172286506-a30747dd-fab2-46b5-bbde-a0a8a6ed128c.png)
 
-5.點選[Start Lab]
+6.點選[Start Lab]
 
 ![image](https://user-images.githubusercontent.com/103306835/172278926-435954db-12c6-4250-bec0-7fdc95ddfa33.png)
 
 
-6.等待紅燈變綠燈(第一次使用等待時間較長)
+7.等待紅燈變綠燈(第一次使用等待時間較長)
 
 ![image](https://user-images.githubusercontent.com/103306835/172279249-afa1fd24-8bc2-424c-ac13-5d83f80ae0a1.png)
 
-7.點選[AWS]
+8.點選[AWS]
 
 ![image](https://user-images.githubusercontent.com/103306835/172279228-6cb28a93-0602-440e-97de-b27d603ca4ca.png)
 
-8.進入AWS Management Console
+9.進入AWS Management Console
 
 ![image](https://user-images.githubusercontent.com/103306835/165218752-52fe1f7d-ab2b-4cc0-a823-f21300513e15.png)
 
