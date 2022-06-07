@@ -4,13 +4,13 @@
 
 信件主旨：Course Invitation
 
-![image](https://user-images.githubusercontent.com/103306835/165217667-3955e062-a27c-41a9-bfd9-f9b2b02e360e.png)
+![image](https://user-images.githubusercontent.com/103306835/172279028-29f7fcf7-ce5a-452f-a8b2-a0e53f3aac55.png)
 
 2.點選[Get Started]
 
-![image](https://user-images.githubusercontent.com/103306835/165217709-650e09e6-c124-4651-af8a-82c6a5b07372.png)
+![image](https://user-images.githubusercontent.com/103306835/172279062-e7affdcc-f97d-4be0-b471-a74f57c98b6d.png)
 
-3.點選[Create My Account]
+3.第一次使用，點選[Create My Account]
 
 ![image](https://user-images.githubusercontent.com/103306835/165217761-6d7d560c-47ed-475e-ad00-edaa96bdc296.png)
 
@@ -46,19 +46,28 @@
 
 ![image](https://user-images.githubusercontent.com/103306835/165218324-8418dbdb-fdaf-4829-a2ef-c5d95215d082.png)
 
-3.點選[Start Lab]
+3.第一次使用Learner Lab會出現以下畫面，滑到最底
+![image](https://user-images.githubusercontent.com/103306835/172278750-85679120-a9f3-4df9-b8ab-28decd23591c.png)
 
-![image](https://user-images.githubusercontent.com/103306835/165218502-c2709769-f3f6-439e-a9e7-b1ebd461b078.png)
+4.點選[I Agree]
 
-4.等待紅燈變綠燈
+![image](https://user-images.githubusercontent.com/103306835/172278883-abccc115-3028-48bc-acc5-22dde0393492.png)
+
+
+5.點選[Start Lab]
+
+![image](https://user-images.githubusercontent.com/103306835/172278926-435954db-12c6-4250-bec0-7fdc95ddfa33.png)
+
+
+6.等待紅燈變綠燈(第一次使用等待時間較長)
 
 ![image](https://user-images.githubusercontent.com/103306835/165218555-b5eed932-6923-4172-ae2d-3e97aa76877f.png)
 
-5.點選[AWS]
+7.點選[AWS]
 
 ![image](https://user-images.githubusercontent.com/103306835/165218692-97b5f5d3-2ff3-480a-a2df-2bff9ff0c703.png)
 
-6.進入AWS Management Console
+8.進入AWS Management Console
 
 ![image](https://user-images.githubusercontent.com/103306835/165218752-52fe1f7d-ab2b-4cc0-a823-f21300513e15.png)
 
