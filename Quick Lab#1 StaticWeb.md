@@ -1,8 +1,12 @@
 # 快速建立你的靜態網站(S3)
 
-# 範例網頁資料連結：https://github.com/EISCFCU/DYU/blob/main/wildrydes-site-main.zip
+# 使用資源(請先至下載並解壓縮)
 
-請先至下載並解壓縮
+1.範例網頁資料連結：https://github.com/EISCFCU/DYU/blob/main/wildrydes-site-main.zip
+
+![image](https://user-images.githubusercontent.com/103306835/172284892-ede94367-6210-4eee-82c0-6827c34e37d3.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/103306835/172282220-a0910688-7052-4f5f-8db7-151ad27f84fa.png)
 
